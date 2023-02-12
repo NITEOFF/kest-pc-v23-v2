@@ -6,7 +6,7 @@ Answer: Driver Details and driver updates
 2. Question: After finalizing the Windows installation, what else can you do to improve your experience?
 Answer: check for any updates
 
-#3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates.
+# 3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates.
 
 1. Questinon: What key or combination of keys is used to run Setup on your computer?
 Answer: F2
@@ -29,7 +29,7 @@ Answer: none
 7. Question: What are the instructions to update the new BIOS version?
 Answer: Download the latest BIOS (UEFI) from manufacturer’s website
 
-#3.1.2.7 Lab - Install Third-Party Software in Windows
+# 3.1.2.7 Lab - Install Third-Party Software in Windows
 
 1. Question: What is the default installation location for Packet Tracer?
 Answer: C
@@ -37,7 +37,7 @@ Answer: C
 2. Reflection Question: Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
 Answer: Sometimes, the uninstall software does not fully remove all the files and settings created by the application during installation. The Microsoft Windows Uninstall or change a program utility removes the application completely.
 
-#10.2.1.8 Lab - Create a Partition in Windows
+# 10.2.1.8 Lab - Create a Partition in Windows
 
 1. Question: What type of File System is used on the NEW VOLUME (I:)?
 Answer: FAT32
@@ -72,7 +72,7 @@ Answer: Security
 11. Reflection Question: Why is there an additional Security tab in the properties window of documents stored on an NTFS volume?
 Answer: The security tab provides a way to display and change permissions of the documents
 
-#11.1.2.10 Lab - Explore the Windows Desktop.
+# 11.1.2.10 Lab - Explore the Windows Desktop.
 
 1. Question: List some of the icons that are on the Desktop.
 Answer: Recycle Bin
@@ -105,7 +105,7 @@ Answer: Volume, Network, Power, Action Center
 10. Question: What can you do in the Notification & actions Settings window?
 Answer: show or hide notifications and choose which apps can display notifications in the notification area.
 
-#11.1.3.4 Lab – Work with Task Manager
+# 11.1.3.4 Lab – Work with Task Manager
 
 1. Question: use the task managar to force close the webrowser, What happened?
 Anser: The browser closed
@@ -171,7 +171,7 @@ Answer: End task, End process tree, Set priority, Set affinity, Analyze wait cha
 21. Question: Why is it important for an administrator to understand how to work within the Task Manager?
 Answer: the task manager gives a bunch of info witch can be used to troubleshoot the computer and a lot more
 
-#11.1.4.11 Lab - Working with File Explorer
+# 11.1.4.11 Lab - Working with File Explorer
 
 1. Question: create 2 folders, move folder2 into folder1, then move folder1 to the desktop
 Answer: The new folders are displayed on the Desktop. After moving Folder2 into Folder1, only Folder1 on the Desktop.
@@ -214,7 +214,7 @@ Answer: Documents, Music, Pictures, and Videos
 13. Question: How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
 Answer: Select the Folder1 library location and click Remove and then click OK
 
-#11.2.1.5 Lab - Explore Control Panel Categories.
+# 11.2.1.5 Lab - Explore Control Panel Categories.
 
 Step 1: Control Panel Views
 1. Question: In the Control Panel, click (View by), what are the options?
@@ -275,7 +275,7 @@ Answer: Region
 17. Question: Which subcategory would you use to synchronize the time on a computer with a specific web server on the Internet?
 Answer: Date and Time > Internet Time > Change settings
 
-#11.2.2.3 Lab - User Accounts.
+# 11.2.2.3 Lab - User Accounts.
 
 Part 1: Account Creation.
 1. Question: What can a user do with a limited account?
@@ -305,7 +305,7 @@ Answer: The Standard User cannot compromise the security of the computer or the 
 8. Question: In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them?
 Answer: if you wish to remove the user from the computer but wish to keep the data on the account
 
-#11.2.5.8 Lab – Manage Virtual Memory
+# 11.2.5.8 Lab – Manage Virtual Memory
 
 Step 1: Open System Properties
 1. Question: What is the current size of the virtual memory (paging file)?
@@ -326,7 +326,7 @@ Step 4: Reset the virtual memory back to the original settings.
 5. Reflection Questions: Why would you ever change the default virtual memory page file settings in Windows?
 Answer: to ensure system stability
 
-#11.2.6.2 Lab – Use Device Manager
+# 11.2.6.2 Lab – Use Device Manager
 
 Step 1: Open Device Manager.
 1. Question: What information is listed in the Device Manager window? Why would you use it?
@@ -348,7 +348,7 @@ Answer: It allows you to uninstall newly installed driver software and revert ba
 6. Question: What are the other available options?
 Answer: The other options are disable device and uninstall devices
 
-#11.3.1.11 Lab – Monitor and Manage System Resources.
+# 11.3.1.11 Lab – Monitor and Manage System Resources.
 
 Part 2: Explore the Impact of Services - Step 2: Stop print spooler.
 1. Question: What message did you receive? How would you fix this?
@@ -370,11 +370,11 @@ Answer: c:\PerfLogs\DESKTOP-NT\DataCollector01.csv
 5. Question: What does the column farthest to the right show?
 Answer: Memory in MegaBytes.
 
-#11.3.2.7 Lab - System Utilities.
+# 11.3.2.7 Lab - System Utilities.
 
 Part 1: Custom Management Console
 1. Question: What was the path you use to navigate to the Event Viewer?
-Answer: jhon´s Console - [Console Root\Management Tools\Computer Management(Local)\System Tools\Event Viewer]
+Answer: jhon Console - [Console Root\Management Tools\Computer Management(Local)\System Tools\Event Viewer]
 
 Part 2: Registry Editor.
 Step 1: Change your desktop background settings.
@@ -413,7 +413,7 @@ Answer: It would make it easy to configure and monitor other computers that do n
 10. Question: After restarting the computer, why was the desktop color changed?
 Answer: Importing the registry file modified the registry to contain a value for the desktop that was not the same as the current value. When the computer started, this value was read from the registry to make the desktop that color.
 
-#11.3.2.8 Lab - Manage System Files.
+# 11.3.2.8 Lab - Manage System Files.
 
 Step 1:Review the System Information.
 1. Question: Processor?
@@ -472,7 +472,7 @@ Answer: It may be beneficial to turn off a service if that service may have beco
 17. Question: When would you use the startup tab of the system configuration tool?
 Answer: There may be programs that you do not wish to start when the computer boots
 
-#11.4.1.5 Lab - Work in the Windows Command Shell.
+# 11.4.1.5 Lab - Work in the Windows Command Shell.
 
 Step 2: Display command help from the command prompt.
 1. Question: To see the next page, press the spacebar. What happens when you press enter?
@@ -493,7 +493,7 @@ Answer: cls
 6. Question: What is the last command?
 Answer: cls
 
-#11.4.2.7 Lab - File System Commands.
+# 11.4.2.7 Lab - File System Commands.
 
 Step 2:Create and change directories.
 1. Question: Type cd at the command prompt. What is the current directory?
@@ -532,7 +532,7 @@ Answer GUI: GUI lets a user interact with the device/system with the help of gra
 
 Answer CLI: CLI lets a user interact with their device/system with the help of various commands
 
-#11.4.3.2 Lab - Disk CLI Commands.
+# 11.4.3.2 Lab - Disk CLI Commands.
 
 Step 1: Explore the chkdsk command
 1. Question: What is the option to fix errors on the drive?
@@ -561,7 +561,7 @@ Step 2: Shrink a volume.
 7. Question: What is the maximum number of reclaimable bytes?
 Answer: QUERYMAX
 
-#11.4.4.2 Lab – Task and System CLI Commands.
+# 11.4.4.2 Lab – Task and System CLI Commands.
 
 Part 1: Task CLI Commands
 1. Question: What command would you use to display the results of tasklist one page at a time?
@@ -588,8 +588,6 @@ Part 2: System CLI Commands
 Answer: /verifyonly
 
 8. Question: What would you add to the command so you can view the output one page at a time?
-
-NITE, [12.02.2023 20:54]
 Answer: dism /online /get-drivers /all /format:table | more
 
 9. Question: Enter the command to log off your computer. Record the command below.
@@ -607,7 +605,7 @@ part 2: The net command
 1. Question: When does the password expire?
 Answer: Password expires 10/5/2023
 
-#11.5.2.4 Lab – Share Resources.
+# 11.5.2.4 Lab – Share Resources.
 1. Question: What is the name of your computer? Provide your computer name and shared folder name to your partner.
 Answer: DESKTOP-NT
 
@@ -662,7 +660,6 @@ Answer: 6 Hours
 Answer: A saved invitation file, email invitation, or Easy Connect.
 
 #Reflection Questions.
-
 9: Question: What type of scenarios are most appropriate for Remote Assistance in contrast with Remote Desktop?
 Answer: Remote Assistance is best suited in helping a user troubleshoot issues on their computer
 
