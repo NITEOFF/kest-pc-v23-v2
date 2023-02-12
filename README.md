@@ -659,7 +659,7 @@ Answer: 6 Hours
 8. Question: What are the ways to send an invitation to a trusted person with Remote Assistance?
 Answer: A saved invitation file, email invitation, or Easy Connect.
 
-#Reflection Questions.
+# Reflection Questions.
 9: Question: What type of scenarios are most appropriate for Remote Assistance in contrast with Remote Desktop?
 Answer: Remote Assistance is best suited in helping a user troubleshoot issues on their computer
 
