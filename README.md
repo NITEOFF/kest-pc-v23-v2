@@ -1,4 +1,4 @@
-#10.3.1.4 Lab - Finalize the Windows Installation.
+# 10.3.1.4 Lab - Finalize the Windows Installation.
 
 1. Question: What options are available in the Driver tab?
 Answer: Driver Details and driver updates
